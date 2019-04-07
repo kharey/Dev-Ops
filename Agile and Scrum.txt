@@ -1,0 +1,73 @@
+Agile
+=================================
+Scrum : is tool or template to track the sprints or progress 
+
+
+Jira (tool):
+	Create the New Scrum Project
+
+	User Mangement 
+		
+
+	UserStory  : business requirement/functional requirement and defects 
+			
+		   : every item/task is called one user story 
+
+
+	Backlog  : is container of userstory 
+
+
+	Sprint   : is one iteration/release of product 
+		  Sprint duration can be between 1 to 4 weeks (standard)
+
+		
+
+	Dashboard : 
+
+
+Backlog Grooming 
+
+Sprint Plan 
+		
+Daily Standup Meeting (30 mins)
+
+
+Sprint Review 
+
+
+================================
+
+Environment Types:
+========================
+Dev
+Test
+Stage
+Prod 
+
+
+
+Repository where code / data / content can be managed in distributed  way
+========================================================================================
+Git  and GitHub   **
+		Git     : is repository 
+				-download and install
+		GitHub  : is cloud repository 
+				-signup on web 
+
+	
+SVN
+TFS
+GitBacket       **
+
+etc.
+
+
+
+
+
+
+
+
+
+		
+		
