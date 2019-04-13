@@ -1,0 +1,65 @@
+
+cd folderpath				: change directory/folder
+
+dir					: show list of files and folder (windows)
+
+
+ls					: show list tof files and folder (linux)
+
+
+
+
+git init				: git intialize or create new repository (one for every project)
+
+git status				: show file and folder status
+				         red  - untrakced files
+					 green - tracked files (in stage)
+
+
+git add filename file2			: add given files or folder to git stage 
+
+or
+
+git add -A				: add all files to stage
+
+or 
+
+git add .A
+
+
+git reset filename			: remove/unstage the from stage 
+
+
+
+git commit -m  "comments "   		: commit the files and folder to git repository (local repository name is master)
+		--error  will show  first time 
+		
+git diff fielname			: show the changes from previous to new version 
+
+
+git log					: show list of commits
+
+
+
+--push to server / cloud 
+
+git remote add <aliasname> https://github.com/username/reponame  : add remote server/cloud server link on local machine
+
+
+git push -u <aliasname> master :  push the local codes/files/commits to server(cloud/github)
+
+
+
+
+------------------------------
+		--one time
+git clone https://github.com/username/reponame 				: downoload from github 
+
+		
+git pull https://github.com/username/reponame 				: download the changes 
+
+
+
+
+
+
